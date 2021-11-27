@@ -4,7 +4,7 @@
   "description": "Writting unit test with Jest framework",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
