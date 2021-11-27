@@ -1,0 +1,25 @@
+{
+  "name": "unit-test-jest-framework",
+  "version": "1.0.0",
+  "description": "Writting unit test with Jest framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zendy199x/Unit-Test-With-Jest-Framework.git"
+  },
+  "author": "Zendy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zendy199x/Unit-Test-With-Jest-Framework/issues"
+  },
+  "homepage": "https://github.com/zendy199x/Unit-Test-With-Jest-Framework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1"
+  }
+}
