@@ -13,8 +13,6 @@ const studentList = [
 ];
 
 function isZendy(student) {
-  if (!student) return false;
-
   return student.gender === 'male' && student.name.toLowerCase() === 'zendy';
 }
 
