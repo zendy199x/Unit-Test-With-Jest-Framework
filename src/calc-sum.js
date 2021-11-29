@@ -1,3 +1,5 @@
+// Enter number n, sum from 1 to n
+
 // S(n) = 1 + 2 + 3 + ... + n
 // S(n) = (n + (n + 1)) / 2
 

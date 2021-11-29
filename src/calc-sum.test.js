@@ -1,4 +1,4 @@
-import { calculateSumV1, calculateSumV2 } from './calc-s';
+import { calculateSumV1, calculateSumV2 } from './calc-sum';
 
 // S(n) = 1 + 2 + 3 + ... + n
 

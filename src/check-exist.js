@@ -1,3 +1,5 @@
+// Input an array of numbers, check if the array is an array of even numbers?
+
 // Every v1
 export function checkIfAllEvenV1(numberList) {
   if (!Array.isArray(numberList) || numberList.length === 0) return false;
